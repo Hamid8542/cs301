@@ -21,3 +21,5 @@ console.log(sum);
 const myBirthday = "10/10/2010";
 
 console.log(myBirthday)
+
+console.assert.log(sum);
